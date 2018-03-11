@@ -1,0 +1,105 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	756	4863300	15.5
+	"Alaska"	"02"	128	741894	17.3
+	"Arizona"	"04"	1382	6931071	19.9
+	"Arkansas"	"05"	401	2988248	13.4
+	"California"	"06"	4654	39250017	11.9
+	"Colorado"	"08"	942	5540545	17.0
+	"Connecticut"	"09"	971	3576452	27.1
+	"Delaware"	"10"	282	952065	29.6
+	"District of Columbia"	"11"	269	681170	39.5
+	"Florida"	"12"	4728	20612439	22.9
+	"Georgia"	"13"	1394	10310371	13.5
+	"Hawaii"	"15"	191	1428557	13.4
+	"Idaho"	"16"	243	1683140	14.4
+	"Illinois"	"17"	2411	12801539	18.8
+	"Indiana"	"18"	1526	6633053	23.0
+	"Iowa"	"19"	314	3134693	10.0
+	"Kansas"	"20"	313	2907289	10.8
+	"Kentucky"	"21"	1419	4436974	32.0
+	"Louisiana"	"22"	996	4681666	21.3
+	"Maine"	"23"	353	1331479	26.5
+	"Maryland"	"24"	2044	6016447	34.0
+	"Massachusetts"	"25"	2227	6811779	32.7
+	"Michigan"	"26"	2347	9928300	23.6
+	"Minnesota"	"27"	672	5519952	12.2
+	"Mississippi"	"28"	352	2988726	11.8
+	"Missouri"	"29"	1371	6093000	22.5
+	"Montana"	"30"	119	1042520	11.4
+	"Nebraska"	"31"	120	1907116	6.3
+	"Nevada"	"32"	665	2940058	22.6
+	"New Hampshire"	"33"	481	1334795	36.0
+	"New Jersey"	"34"	2056	8944469	23.0
+	"New Mexico"	"35"	500	2081015	24.0
+	"New York"	"36"	3638	19745289	18.4
+	"North Carolina"	"37"	1956	10146788	19.3
+	"North Dakota"	"38"	77	757952	10.2
+	"Ohio"	"39"	4329	11614373	37.3
+	"Oklahoma"	"40"	813	3923561	20.7
+	"Oregon"	"41"	506	4093465	12.4
+	"Pennsylvania"	"42"	4627	12784227	36.2
+	"Rhode Island"	"44"	326	1056426	30.9
+	"South Carolina"	"45"	879	4961119	17.7
+	"South Dakota"	"46"	69	865454	8.0
+	"Tennessee"	"47"	1630	6651194	24.5
+	"Texas"	"48"	2831	27862596	10.2
+	"Utah"	"49"	635	3051217	20.8
+	"Vermont"	"50"	125	624594	20.0
+	"Virginia"	"51"	1405	8411808	16.7
+	"Washington"	"53"	1102	7288000	15.1
+	"West Virginia"	"54"	884	1831102	48.3
+	"Wisconsin"	"55"	1074	5778708	18.6
+	"Wyoming"	"56"	99	585501	16.9
+"Total"			63632	323127513	19.7
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Age Group: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified), X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified), X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system), X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified), X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified), X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system), X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X85 (Assault by drugs,"
+"medicaments and biological substances), Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent), Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent), Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent), Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent), Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Race: All"
+"States: All"
+"Year: 2016"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Mar 11, 2018 12:29:38 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released December 2017. Data are from the Compressed Mortality File 1999-2016 Series 20"
+"No. 2V, 2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Mar 11, 2018 12:29:38 AM"
+"---"
+Caveats:
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2016 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2016 series released by NCHS on June 26, 2017."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#ICD-10 Changes."

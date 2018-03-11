@@ -1,0 +1,108 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	607	4718206	12.9
+	"Alaska"	"02"	127	687455	18.5
+	"Arizona"	"04"	828	6280362	13.2
+	"Arkansas"	"05"	360	2874554	12.5
+	"California"	"06"	3863	36604337	10.6
+	"Colorado"	"08"	749	4889730	15.3
+	"Connecticut"	"09"	386	3545579	10.9
+	"Delaware"	"10"	124	883874	14.0
+	"District of Columbia"	"11"	56	580236	9.7
+	"Florida"	"12"	2963	18527305	16.0
+	"Georgia"	"13"	935	9504843	9.8
+	"Hawaii"	"15"	123	1332213	9.2
+	"Idaho"	"16"	146	1534320	9.5
+	"Illinois"	"17"	1353	12747038	10.6
+	"Indiana"	"18"	830	6424806	12.9
+	"Iowa"	"19"	209	3016734	6.9
+	"Kansas"	"20"	219	2808076	7.8
+	"Kentucky"	"21"	764	4289878	17.8
+	"Louisiana"	"22"	647	4435586	14.6
+	"Maine"	"23"	162	1330509	12.2
+	"Maryland"	"24"	693	5684965	12.2
+	"Massachusetts"	"25"	786	6468967	12.2
+	"Michigan"	"26"	1239	9946889	12.5
+	"Minnesota"	"27"	384	5247018	7.3
+	"Mississippi"	"28"	303	2947806	10.3
+	"Missouri"	"29"	765	5923916	12.9
+	"Montana"	"30"	134	976415	13.7
+	"Nebraska"	"31"	94	1796378	5.2
+	"Nevada"	"32"	519	2653630	19.6
+	"New Hampshire"	"33"	126	1315906	9.6
+	"New Jersey"	"34"	702	8711090	8.1
+	"New Mexico"	"35"	518	2010662	25.8
+	"New York"	"36"	1691	19212436	8.8
+	"North Carolina"	"37"	1196	9309449	12.8
+	"North Dakota"	"38"	46	657569	7.0
+	"Ohio"	"39"	1733	11515391	15.0
+	"Oklahoma"	"40"	564	3668976	15.4
+	"Oregon"	"41"	452	3768748	12.0
+	"Pennsylvania"	"42"	1850	12612285	14.7
+	"Rhode Island"	"44"	185	1055003	17.5
+	"South Carolina"	"45"	565	4528996	12.5
+	"South Dakota"	"46"	54	799124	6.8
+	"Tennessee"	"47"	938	6247411	15.0
+	"Texas"	"48"	2053	24309039	8.4
+	"Utah"	"49"	468	2663029	17.6
+	"Vermont"	"50"	73	624151	11.7
+	"Virginia"	"51"	718	7833496	9.2
+	"Washington"	"53"	1011	6562231	15.4
+	"West Virginia"	"54"	459	1840310	24.9
+	"Wisconsin"	"55"	606	5640996	10.7
+	"Wyoming"	"56"	74	546043	13.6
+"Total"			36450	304093966	12.0
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Age Group: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified), X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified), X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system), X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified), X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified), X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system), X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X85 (Assault by drugs,"
+"medicaments and biological substances), Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent), Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent), Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent), Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent), Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Race: All"
+"States: All"
+"Year: 2008"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Mar 11, 2018 12:33:23 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released December 2017. Data are from the Compressed Mortality File 1999-2016 Series 20"
+"No. 2V, 2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Mar 11, 2018 12:33:23 AM"
+"---"
+Caveats:
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2016 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2016 series released by NCHS on June 26, 2017."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#ICD-10 Changes."
+"4. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
